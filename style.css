@@ -149,6 +149,7 @@ header {
   justify-content: center;
   justify-items: center;
   width: 60px;
+  height: 60px;
   padding: 15px;
   box-shadow: 0 0 10px #70deff, inset 0 0 10px #70deff;
   border-radius: 50%;
